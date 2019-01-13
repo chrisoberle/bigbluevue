@@ -4,6 +4,13 @@ A Vue.js project created with vue cli.
 
 ## Notes
 
+To Run the application, clone it...and then:
+
+* npm install
+* npm run backend
+* npm run frontend (in a different terminal)
+* access application at http://localhost:8080
+
 
 ## Build Setup
 
